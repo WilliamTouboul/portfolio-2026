@@ -1,0 +1,5 @@
+ = caracetere special pour le LL imbriqué (ligature Zujin)
+
+ = petit infini
+
+ = gros infini

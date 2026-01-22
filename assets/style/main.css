@@ -1,0 +1,14 @@
+@import 'cleanup.css';
+@import 'fonts.css';
+@import 'variables.css';
+
+
+h1 {
+    font-family: "zujin-bold";
+    font-size: 8rem;
+    font-variant-ligatures: additional-ligatures;
+}
+
+p {
+    font-size: 40px;
+}

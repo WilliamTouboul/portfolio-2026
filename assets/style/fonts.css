@@ -1,0 +1,91 @@
+/* -------------------------------------------------------------------------- */
+/*                                    ZUJIN                                   */
+/* -------------------------------------------------------------------------- */
+@font-face {
+    font-family: "zujin-bold";
+    src: url("../fonts/zujin/zujin-bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "zujin-thin";
+    src: url("../fonts/zujin/zujin-thin.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "zujin-light";
+    src: url("../fonts/zujin/zujin-light.otf") format("opentype");
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "zujin-regular";
+    src: url("../fonts/zujin/zujin-regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "zujin-medium";
+    src: url("../fonts/zujin/zujin-medium.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "zujin-semibold";
+    src: url("../fonts/zujin/zujin-semibold.otf") format("opentype");
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+/* -------------------------------------------------------------------------- */
+/*                                  FIRA CODE                                 */
+/* -------------------------------------------------------------------------- */
+@font-face {
+    font-family: "fira-mono-regular";
+    src: url("../fonts/fira-code/FiraMono-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "fira-mono-medium";
+    src: url("../fonts/fira-code/FiraMono-Medium.ttf") format("truetype");
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "fira-mono-bold";
+    src: url("../fonts/fira-code/FiraMono-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+.firaMonoRegular {
+    font-family: "fira-mono-regular", monospace;
+}
+
+.firaMonoMedium {
+    font-family: "fira-mono-medium", monospace;
+}
+
+.firaMonoBold {
+    font-family: "fira-mono-bold", monospace;
+}
